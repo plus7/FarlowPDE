@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "Lesson38_2", "Lesson38_2\Lesson38_2.fsproj", "{B351EB88-DDC7-47C4-9798-A11B24F4F9FF}"
+EndProject
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "Lesson38_1", "Lesson38_1\Lesson38_1.fsproj", "{A1F66D23-787E-4B63-8700-F68B820DC054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F66D23-787E-4B63-8700-F68B820DC054}.Debug|x86.ActiveCfg = Debug|x86
+		{A1F66D23-787E-4B63-8700-F68B820DC054}.Debug|x86.Build.0 = Debug|x86
+		{A1F66D23-787E-4B63-8700-F68B820DC054}.Release|x86.ActiveCfg = Release|x86
+		{A1F66D23-787E-4B63-8700-F68B820DC054}.Release|x86.Build.0 = Release|x86
+		{B351EB88-DDC7-47C4-9798-A11B24F4F9FF}.Debug|x86.ActiveCfg = Debug|x86
+		{B351EB88-DDC7-47C4-9798-A11B24F4F9FF}.Debug|x86.Build.0 = Debug|x86
+		{B351EB88-DDC7-47C4-9798-A11B24F4F9FF}.Release|x86.ActiveCfg = Release|x86
+		{B351EB88-DDC7-47C4-9798-A11B24F4F9FF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Lesson38_2\Lesson38_2.fsproj
+	EndGlobalSection
+EndGlobal
